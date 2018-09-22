@@ -1,3 +1,3 @@
 # lab3q2
 
-<a href="https://github.com/jessimk/lab3q2/blob/master/AMN.html">link!</a>
+Link to .html file: https://jessimk.github.io/lab3amn/AMN.html
